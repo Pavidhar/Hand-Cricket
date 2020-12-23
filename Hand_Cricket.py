@@ -87,7 +87,7 @@ while True:
 		toss=randint(1,2)
 		#50%-50% probability of a toss outcome
 		if toss==1:
-			x=input("You Won the toss. Choose :\n1.Bat\n2.Ball\n")
+			x=int(input("You Won the toss. Choose :\n1.Bat\n2.Ball\n"))
 			if x==1:
 				playerfirst()
 			else:
