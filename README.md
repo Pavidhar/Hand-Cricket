@@ -1,2 +1,2 @@
-# Hand-Criket
-ES101 Project of Pavidhar Jain (20110136)
+# Hand-Cricket
+ES102 Project of Pavidhar Jain (20110136)
